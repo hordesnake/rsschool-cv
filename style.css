@@ -86,7 +86,6 @@ nav li a:hover {
     font-size: 2em;
     font-weight: 300;
     color: #373d46;
-    ß
 }
 
 .hero p {
@@ -148,7 +147,7 @@ svg {
             "sidebar footer";
         grid-template-columns: 300px 1fr;
         grid-template-rows: 1fr auto;
-        
+
     }
 
     nav ul {
@@ -158,8 +157,7 @@ svg {
     }
 
     .sidebar {
-        background: linear-gradient(
-                rgba(249, 107, 142, 1),
+        background: linear-gradient(rgba(249, 107, 142, 1),
                 rgba(218, 103, 230, 1),
                 rgba(130, 125, 253, 1));
         padding-top: 3em;
